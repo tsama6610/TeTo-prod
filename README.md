@@ -1,2 +1,2 @@
 # TeTo-prod
-No game No life
+🎎No game No life 🎏
