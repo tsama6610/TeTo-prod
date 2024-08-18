@@ -286,7 +286,7 @@ If you have major coding issues with this bot, please join and ask for help.
 </details>
 
 ## ✨ **Copyright (C)**
-- **[NTKhang (NTKhang03)](https://github.com/ntkhang03)**
+- **[TeTo-ae💟 (TeTo🎏)](https://github.com/tsama6610/TeTo-prod)**
 
 ## 📜 **License**
 
@@ -304,6 +304,6 @@ If you have major coding issues with this bot, please join and ask for help.
 - Don't sell my source code
 - Don't claim my source code as your own
 - Do not monetize my source code (such as: buy and sell commands, buy and sell bots, call for donations, etc.)
-- Don't remove/edit my credits (author name) in my source code
+- Don't remove/edithttps://github.com/tsama6610/TeTo-prod/edit/main/README.md my credits (author name) in my source code
 
 
